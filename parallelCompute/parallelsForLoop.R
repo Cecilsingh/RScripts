@@ -16,7 +16,7 @@ createForLoop <- function(i){
 ###Capture Results###
 
 #Non-parallel code execution
-#lapply iterates over the while loop
+#lapply iterates over the FOR loop
 #Runs the createLoop function above 1000 times
 system.time(nonParallelFunc <- lapply(1:10000, createForLoop))
 
