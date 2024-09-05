@@ -29,7 +29,11 @@ A collection of R scripts put together for your convenience.
 
 <dt>parallelsWhileLoop.R</dt>
 <dd>An R script that creates a FOR loop, and iterates over the FOR loop using both parallel and non-parallel compute.</dd>
+</dl>
 
-
-
+## AWS :palm_tree:
+**Contains all of information relating to R and AWS.**
+<dl>
+<dt>S3</dt>
+<dd>A walkthrough for connecting your R session to an AWS S3 bucket.</dd>
 </dl>
