@@ -1,0 +1,5 @@
+install.packages("aws.s3")
+install.packages("aws.ec2metadata")
+library(aws.s3)
+library(aws.ec2metadata)
+Sys.setenv("AWS_DEFAULT_REGION" = 'us-east-1')
